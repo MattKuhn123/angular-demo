@@ -1,0 +1,12 @@
+[
+    {
+        "name": "my station",
+        "location": "ohio",
+        "id": 123
+    },
+    {
+        "name": "another station",
+        "location": "the tva",
+        "id": 456123
+    }
+]
